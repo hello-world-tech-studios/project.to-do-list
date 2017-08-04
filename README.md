@@ -34,3 +34,5 @@ Create a to do list app. This project will test you skills with javascript, HTML
 
 ## Example
 ![alt text](https://github.com/hello-world-tech-studios/project.to-do-list/blob/master/assets/to-do-list-example.gif)
+
+Your to-do list should look much different from this one. Be creative, and use whatever colors, font, and styling you want. Just make sure it looks nice.
