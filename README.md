@@ -33,4 +33,4 @@ Create a to do list app. This project will test you skills with javascript, HTML
 - [A Guide to Centering in CSS](https://css-tricks.com/centering-css-complete-guide/)
 
 ## Example
-![alt text]
+![alt text](https://github.com/hello-world-tech-studios/project.to-do-list/blob/master/assets/to-do-list-example.gif)
