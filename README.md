@@ -18,7 +18,7 @@ Create a to do list app. This project will test you skills with javascript, HTML
 ## To-Do (Look at that! To-Do List right here!)
 - Create a user input box that tasks can be typed into.
 - Add a submit button that appends the user's input to a list when clicked.
- **Bonus**
+- **Bonus**
 - Add functionality that deletes items from the list.
 - Add the ability to reorganize/adjust list order by drag and click.
 - Add functionality that creates to-do, in-progress, and completed columns.
